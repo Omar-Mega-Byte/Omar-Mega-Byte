@@ -1,5 +1,7 @@
-Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/> I'm Omar Ahmed
+Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/>
+I'm Omar Ahmed
 Backend Developer | Computer Science Student at Helwan University
+
 I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field. Connect with me to discuss internships or opportunities!
 
 🌍 I'm based in Cairo
@@ -7,6 +9,7 @@ I am passionate about backend development using PHP. I am dedicated to enhancing
 ✉️ You can contact me at omar.tolis@gmail.com
 
 🧠 I'm learning Laravel
+
 Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
