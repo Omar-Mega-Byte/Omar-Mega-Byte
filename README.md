@@ -52,7 +52,7 @@ Socials
 </p>
 <b>Top Repositories</b>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte/Nile-Knowledge">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=Nile-Knowledge&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" />
   </a>
