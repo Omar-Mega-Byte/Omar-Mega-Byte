@@ -50,7 +50,6 @@ Socials
     </picture>
   </a>
 </p>
-Badges
 <b>Top Repositories</b>
 
 <div align="center">
