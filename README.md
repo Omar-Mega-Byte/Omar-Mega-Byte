@@ -1,7 +1,7 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/>
 ## I'm Omar Ahmed
 #### Backend Developer | Computer Science Student at Helwan University
-###### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field. Connect with me to discuss internships or opportunities!
+##### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field. Connect with me to discuss internships or opportunities!
 
 🌍 Location: Cairo
 
@@ -50,15 +50,15 @@
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
   </a>
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mega-Byte&theme=radical" alt="Omar's GitHub Streak" />
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mega-Byte&theme=radical" alt="Omar's GitHub Streak" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
