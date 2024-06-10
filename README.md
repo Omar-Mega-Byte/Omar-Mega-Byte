@@ -48,18 +48,17 @@
 </p>
 
 ## 📊 GitHub Stats
-<div align="left">
+<div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
   </a>
-  <br>
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mega-Byte&theme=radical" alt="Omar's GitHub Streak" />
+    <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mega-Byte&theme=radical" alt="Omar's GitHub Streak" />
   </a>
 </div>
-<div align="left">
+<div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
