@@ -32,15 +32,6 @@ I am passionate about backend development using PHP. I am dedicated to enhancing
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oop-colored.svg" width="36" height="36" alt="OOP" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/datastructures-colored.svg" width="36" height="36" alt="Data Structures" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/algorithms-colored.svg" width="36" height="36" alt="Algorithms" />
-  </a>
 </p>
 
 ## Socials
