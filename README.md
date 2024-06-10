@@ -74,3 +74,10 @@ I am passionate about backend development using PHP. I am dedicated to enhancing
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=Nile-Knowledge&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" />
   </a>
 </div>
+
+## GitHub Stats
+<div align="left">
+  <a href="https://github.com/Omar-Mega-Byte">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
+  </a>
+</div>
