@@ -68,7 +68,8 @@
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=Nile-Knowledge&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" alt="Nile Knowledge Repo" />
   </a>
 </div>
-🏆 Achievements
+
+## 🏆 Achievements
 <p align="center">
   <a href="https://github.com/Omar-Mega-Byte">
     <img align="center" width="200%" src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&theme=radical&no-frame=true&margin-w=10" alt="Omar's GitHub Trophies" />
