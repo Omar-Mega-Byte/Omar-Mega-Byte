@@ -71,6 +71,6 @@
 🏆 Achievements
 <p align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="60%" src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&theme=radical&no-frame=true&margin-w=10" alt="Omar's GitHub Trophies" />
+    <img align="center" width="200%" src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&theme=radical&no-frame=true&margin-w=10" alt="Omar's GitHub Trophies" />
   </a>
 </p>
