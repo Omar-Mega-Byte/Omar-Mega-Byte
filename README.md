@@ -36,9 +36,11 @@
   <a href="https://www.facebook.com/omar.tolis.7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
+  <br>
   <a href="https://www.github.com/Omar-Mega-Byte" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/omar-ahmed-610492249/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
