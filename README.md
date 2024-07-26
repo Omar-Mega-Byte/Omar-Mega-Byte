@@ -43,6 +43,8 @@
   </a>
 </p>
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/snake.svg" alt="Snake animation" />
 
 ###
