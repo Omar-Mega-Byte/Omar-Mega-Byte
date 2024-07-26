@@ -43,8 +43,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?"  />
 </div>
