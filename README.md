@@ -43,7 +43,21 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/586319c4-eb77-46ba-984b-d920da40c672"  />
+</div>
+
+###
 
 ## 🌐 Connect with Me
 <p align="left">
