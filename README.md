@@ -9,7 +9,11 @@
 
 🧠 Currently Learning: Laravel
 
-![GitHub Snake Animation](https://github.com/Omar-Mega-Byte/Omar-Mega-Byte/raw/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <p align="center">
