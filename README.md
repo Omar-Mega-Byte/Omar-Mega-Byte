@@ -9,6 +9,9 @@
 
 🧠 Currently Learning: Laravel
 
+![GitHub Snake Animation](https://github.com/Omar-Mega-Byte/Omar-Mega-Byte/raw/output/snake.svg)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Omar;I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
