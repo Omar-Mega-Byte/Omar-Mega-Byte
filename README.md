@@ -9,13 +9,6 @@
 
 🧠 Currently Learning: Laravel
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Omar;I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
