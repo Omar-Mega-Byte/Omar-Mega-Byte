@@ -43,13 +43,13 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://github.com/user-attachments/assets/586319c4-eb77-46ba-984b-d920da40c672"  />
 </div>
 
