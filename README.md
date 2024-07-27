@@ -9,8 +9,16 @@
 
 🧠 Currently Learning: Laravel
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Omar;I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?"  />
+</div>
+
 ## 🛠️ Skills
-<p align="left">
+<p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
@@ -43,20 +51,14 @@
   </a>
 </p>
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?"  />
+<br/>
+
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/7406e358-b15d-410b-a0db-bc396cd1392f"/>
 </div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://github.com/user-attachments/assets/586319c4-eb77-46ba-984b-d920da40c672"  />
-</div>
-
-###
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/omar.tolis.7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
@@ -87,7 +89,7 @@
 </div>
 
 ## 🚀 Top Projects
-<div align="left">
+<div align="center">
   <a href="https://github.com/Omar-Mega-Byte/eCommerce">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=eCommerce&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" alt="eCommerce Repo" />
   </a>
