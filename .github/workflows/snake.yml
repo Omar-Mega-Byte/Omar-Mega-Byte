@@ -14,17 +14,22 @@ jobs:
   generate:
     permissions:
       contents: write
-    runs-on: windows-latest
-    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Omar-Mega-Byte  # Your GitHub username
+          github_user_name: Omar-Mega-Byte
           outputs: dist/snake.svg?palette=github-dark
 
       - name: Push snake.svg to the output branch
