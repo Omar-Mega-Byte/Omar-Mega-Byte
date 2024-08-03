@@ -1,5 +1,13 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/>
-## I'm Omar Ahmed
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+<h1 align = "center" >Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/></h1>
+
+<h2 align = "center" >I'm Omar Ahmed</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Omar;I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
+
 #### Backend Developer | Computer Science Student at Helwan University
 ##### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field. Connect with me to discuss internships or opportunities!
 
@@ -8,10 +16,6 @@
 ✉️ Email: omar.tolis@gmail.com
 
 🧠 Currently Learning: Laravel
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Omar;I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
-</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Omar-Mega-Byte/count.svg?"  />
