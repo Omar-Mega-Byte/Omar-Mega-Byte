@@ -9,7 +9,7 @@
 </p>
 
 #### Backend Developer | Computer Science Student at Helwan University
-##### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field. Connect with me to discuss internships or opportunities!
+##### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field.
 
 🌍 Location: Cairo
 
