@@ -6,6 +6,12 @@
 </p>
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+</picture>
+
 #### Backend Developer | Computer Science Student at Helwan University
 ##### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field.
 
