@@ -100,7 +100,7 @@
 
 # 👁️‍🗨️ Wakatime Stats
 <div align="center">
-  <a href="https://github.com/Omar-Mega-Byte">
+  <a href="https://https://wakatime.com/@OmarMegaByte">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=OmarMegaByte" alt="Top Languages" />
   </a>
 </div>
