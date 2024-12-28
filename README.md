@@ -72,7 +72,7 @@
   </a>
   <div align="center">
       <a href="https://github.com/Omar-Mega-Byte">
-      <img height=400 width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte" />
+      <img height=400 width="40%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omar-Mega-Byte&theme=algolia" />
       </a>
 </div>
 </p>
@@ -92,9 +92,15 @@
 </p>
 
 # 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true" alt="Omar's GitHub Stats" />
+    <img align="center" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Mega-Byte&theme=algolia" alt="Omar's GitHub Stats" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Omar-Mega-Byte">
+    <img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mega-Byte&theme=aura_dark" alt="Omar's GitHub Stats" />
   </a>
 </div>
 
