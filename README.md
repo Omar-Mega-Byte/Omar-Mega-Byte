@@ -28,14 +28,14 @@
 
 🧠 Currently Learning: Laravel
 
-## 🏆 Achievements
+# 🏆 Achievements
 <p align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="300%" src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&theme=radical&no-frame=true&margin-w=15" alt="Omar's GitHub Trophies" />
+    <img align="center" width="400%" src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true&margin-w=15" alt="Omar's GitHub Trophies" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
@@ -70,10 +70,15 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60" style="filter: invert(100%);"/>
   </a>
+  <div align="center">
+      <a href="https://github.com/Omar-Mega-Byte">
+      <img height=400 width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte" />
+      </a>
+</div>
 </p>
 
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/omar.tolis.7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="60" height="60" alt="Facebook" />
@@ -86,19 +91,21 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-<div align="left">
+# 📊 GitHub Stats
+<div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
-  </a>
-</div>
-<div align="right">
-  <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mega-Byte&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Omar-Mega-Byte&show_icons=true" alt="Omar's GitHub Stats" />
   </a>
 </div>
 
-## 🚀 Top Projects
+# 👁️‍🗨️ Wakatime Stats
+<div align="center">
+  <a href="https://github.com/Omar-Mega-Byte">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=OmarMegaByte" alt="Top Languages" />
+  </a>
+</div>
+
+# 🚀 Top Projects
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte/eCommerce">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=eCommerce&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" alt="eCommerce Repo" />
