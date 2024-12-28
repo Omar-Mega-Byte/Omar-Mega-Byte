@@ -15,12 +15,12 @@
 
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-<img align="center" width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+<img align="center" width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote" />
   </a>
 </div>
 
-#### Backend Developer | Computer Science Student at Helwan University
-##### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field.
+## Backend Developer | Computer Science Student at Helwan University
+### I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field.
 
 🌍 Location: Cairo
 
@@ -100,7 +100,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mega-Byte&theme=aura_dark" alt="Omar's GitHub Stats" />
+    <img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mega-Byte&theme=algolia" alt="Omar's GitHub Stats" />
   </a>
 </div>
 
