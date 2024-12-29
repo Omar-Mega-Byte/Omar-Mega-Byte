@@ -72,7 +72,7 @@
   </a>
   <div align="center">
       <a href="https://github.com/Omar-Mega-Byte">
-      <img height=400 width="40%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omar-Mega-Byte&theme=algolia" />
+      <img width="40%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omar-Mega-Byte&theme=algolia" />
       </a>
 </div>
 </p>
@@ -105,6 +105,7 @@
 </div>
 
 # 👁️‍🗨️ Wakatime Stats
+##### <i> click on it </i>
 <div align="center">
   <a href="https://https://wakatime.com/@OmarMegaByte">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=OmarMegaByte" alt="Top Languages" />
