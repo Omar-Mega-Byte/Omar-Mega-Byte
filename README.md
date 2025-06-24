@@ -1,11 +1,11 @@
 ![Header Animation](https://i.redd.it/axjjd2nyj1kb1.gif)
 
-<h1 align="center">Hi there! I'm Omar Ahmed 
+<h1 align="center">Hi there! I'm Omar Elrfaay 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Laravel+backend+developer;Welcome+to+my+GitHub+account!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%27m+a+Software+Tester+and+Backend+Developer;Welcome+to+my+GitHub+account!&font=Fira%20Code%C2%A2er=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 <div align="center">
@@ -22,55 +22,56 @@
   </a>
 </div>
 
-## Backend Developer | Computer Science Student at Helwan University
+## Software Tester | Backend Developer | Computer Science Student at Helwan University
 
-I am passionate about backend development using PHP. I am dedicated to enhancing my skills in creating efficient and reliable backend systems. I'm looking forward to contributing to innovative projects and gaining valuable experience in the field.
+I am a skilled Software Tester and Spring Boot Backend Developer with hands-on experience in building RESTful APIs, database design, and JWT authentication. Proficient in writing clean Java code and automated tests using JUnit, TestNG, and Selenium. Focused on delivering high-quality, scalable, and well-tested backend systems.
 
-- 🌍 **Location**: Cairo  
-- ✉️ **Email**: [omar.tolis@gmail.com](mailto:omar.tolis@gmail.com)  
-- 🧠 **Currently Learning**: Laravel  
+- 🌍 **Location**: Gizab, Egypt  
+- ✉️ **Email**: [omar.tolis2004@gmail.com](mailto:omar.tolis2004@gmail.com)  
+- 🧠 **Currently Learning**: Spring Boot, Software Testing  
+
+---
 
 # 🏆 Achievements
 <p align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true%w=90&margin-w=15" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true&margin-w=15" alt="GitHub Trophies">
   </a>
 </p>
 
+---
+
 # 🛠️ Languages and Tools
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="50">
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
   </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50" style="filter: invert(100%);">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50">
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50">
+  </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="50" height="50">
+  </a>
+  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="TestNG" width="50" height="50">
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50">
   </a>
 </p>
 
@@ -80,18 +81,9 @@ I am passionate about backend development using PHP. I am dedicated to enhancing
   </a>
 </div>
 
-# 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.facebook.com/omar.tolis.7" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" alt="Facebook">
-  </a>
-  <a href="https://www.linkedin.com/in/omar-ahmed-610492249/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn">
-  </a>
-  <a href="https://www.twitch.tv/omar_says_hi" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="40" height="40" alt="Twitch">
-  </a>
-</p>
+
+
+---
 
 # 📊 GitHub Stats
 <div align="center">
@@ -105,6 +97,8 @@ I am passionate about backend development using PHP. I am dedicated to enhancing
   </a>
 </div>
 
+---
+
 # 👁️‍🗨️ Wakatime Stats
 <p align="center">
   <i>Click on it to explore more:</i>
@@ -115,9 +109,47 @@ I am passionate about backend development using PHP. I am dedicated to enhancing
   </a>
 </div>
 
+---
+
 # 🚀 Top Projects
 <div align="center">
-  <a href="https://github.com/Omar-Mega-Byte/eCommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=eCommerce&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="eCommerce Repo">
+  <a href="https://github.com/Omar-Mega-Byte/EventureBoot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EventureBoot&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="EventureBoot Repo">
+  </a>
+  <a href="https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EcommPlaygroundTestMasters&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="EcommPlaygroundTestMasters Repo">
+  </a>
+  <a href="https://github.com/Omar-Mega-Byte/HashCommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=HashCommerce&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="HashCommerce Repo">
   </a>
 </div>
+
+---
+
+# 💼 Experience
+- **Crowd Tester**  
+  *uTest, Digivante, Testio* (02/2025 - Present)  
+  - Conducted exploratory, functional, and usability testing for web and mobile applications.  
+  - Identified and reported software bugs, UI/UX issues, and performance defects.  
+  - Worked with various devices, browsers, and operating systems to ensure comprehensive test coverage.  
+  - Collaborated with clients and test leads to refine test cases and improve application quality.  
+
+- **Software Testing Trainee**  
+  *Digital Egypt Pioneers Initiative - DEPI, Maadi, Egypt* (10/2024 - 05/2025)  
+  - Gained hands-on experience in software testing, focusing on quality assurance.  
+  - Involved in test planning, execution, and defect management.  
+  - Contributed to real-world projects to ensure high software quality and reliability.  
+
+---
+
+# 🎓 Education
+- **Bachelor's Degree in Computer Science and Artificial Intelligence**  
+  *Helwan University* (07/2020 - 07/2026)  
+
+---
+
+# 🤝 Volunteering
+- **Squad Moderator**  
+  *ALX Africa* (01/2025 - 03/2025)  
+  - Fostered a collaborative and inclusive environment, facilitating discussions and supporting group activities.  
+  - Enhanced the learning experience and promoted teamwork, ensuring all members felt valued and engaged.
