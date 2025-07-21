@@ -3,9 +3,11 @@
 <h1 align="center">Hi there! I'm Omar Elrfaay 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%27m+a+Software+Tester+and+Backend+Developer;Welcome+to+my+GitHub+account!&font=Fira%20Code%C2%A2er=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Life+Is+Too+Short+To+Be+Coding+In+Java+Man!;But+I'm+Still+Doing+It+Anyway;Send+Help+PLEASE...;+Or+More+RAM+:3+&font=Fira+Code&center=true&width=650&height=50&duration=900&pause=1000&color=FF0F61" alt="Typing SVG">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%27m+a+Software+Tester+and+Backend+Developer;Welcome+to+my+GitHub+account!&font=Fira+Code&center=true&width=650&height=50&duration=4000&pause=1000&color=1F2F61" alt="Typing SVG">
 </p>
 
 <div align="center">
