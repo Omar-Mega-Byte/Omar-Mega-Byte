@@ -1,5 +1,13 @@
 ![Header Animation](https://i.redd.it/axjjd2nyj1kb1.gif)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <h1 align="center">Hi there! I'm Omar Elrfaay 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 </h1>
@@ -11,14 +19,6 @@
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
     <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote">
   </a>
@@ -28,7 +28,7 @@
 
 I am a skilled Software Tester and Spring Boot Backend Developer with hands-on experience in building RESTful APIs, database design, and JWT authentication. Proficient in writing clean Java code and automated tests using JUnit, TestNG, and Selenium. Focused on delivering high-quality, scalable, and well-tested backend systems.
 
-- 🌍 **Location**: Gizab, Egypt  
+- 🌍 **Location**: Giza, Egypt  
 - ✉️ **Email**: [omar.tolis2004@gmail.com](mailto:omar.tolis2004@gmail.com)  
 - 🧠 **Currently Learning**: Spring Boot, Software Testing  
 
