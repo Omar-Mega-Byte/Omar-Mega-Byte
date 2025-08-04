@@ -35,7 +35,7 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
 ---
 
 # 🏆 Achievements
-<p align="center">
+<p align="left">
   <a href="https://github.com/Omar-Mega-Byte">
     <img src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true&margin-w=15" alt="GitHub Trophies">
   </a>
@@ -44,7 +44,7 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
 ---
 
 # 🛠️ Languages and Tools
-<p align="center">
+<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
   </a>
@@ -77,7 +77,7 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omar-Mega-Byte&theme=algolia" width="50%">
   </a>
@@ -88,12 +88,12 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
 ---
 
 # 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Mega-Byte&theme=algolia" width="90%">
   </a>
 </div>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mega-Byte&theme=algolia" width="50%">
   </a>
@@ -102,10 +102,11 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
 ---
 
 # 👁️‍🗨️ Wakatime Stats
-<p align="center">
-  <i>Click on it to explore more:</i>
-</p>
-<div align="center">
+<div style="border: 2px solid #4A90E2; border-radius: 8px; padding: 16px; max-width: 300px; text-align: left; background-color: #f0f4ff; box-shadow: 0 4px 8px rgba(74, 144, 226, 0.2); margin: 20px auto;">
+  <img src="https://hackatime-badge.hackclub.com/U096QP19MT8/Beemo" alt="Beemo HackaTime Badge" style="max-width: 100%; height: auto; border-radius: 6px;" />
+</div>
+
+<div align="left">
   <a href="https://wakatime.com/@OmarMegaByte">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OmarMegaByte" width="50%" alt="Wakatime Stats">
   </a>
@@ -114,7 +115,7 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
 ---
 
 # 🚀 Top Projects
-<div align="center">
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte/EventureBoot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EventureBoot&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="EventureBoot Repo">
   </a>
