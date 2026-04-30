@@ -8,77 +8,79 @@
   </picture>
 </div>
 
-<h1 align="center">Hi there! I'm Omar Elrfaay 
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Life+Is+Too+Short+To+Be+Coding+In+Java+Man!;But+I'm+Still+Doing+It+Anyway;Send+Help+PLEASE...;+Or+More+RAM+:3+&font=Fira+Code&center=true&width=650&height=50&duration=900&pause=1000&color=FF0F61" alt="Typing SVG">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%27m+a+Software+Tester+and+Backend+Developer;Welcome+to+my+GitHub+account!&font=Fira+Code&center=true&width=650&height=50&duration=4000&pause=1000&color=1F2F61" alt="Typing SVG">
-</p>
+<br>
 
 <div align="center">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote">
+    <img width="55%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote">
   </a>
 </div>
 
-## Software Tester | Backend Developer | Computer Science Student at Helwan University
+---
 
-I am a skilled Software Tester and Spring Boot Backend Developer with hands-on experience in building RESTful APIs, database design, and JWT authentication. Proficient in writing clean Java code and automated tests using JUnit, TestNG, and Selenium. Focused on delivering high-quality, scalable, and well-tested backend systems.
+## `whoami`
 
-- 🌍 **Location**: Giza, Egypt  
-- ✉️ **Email**: [omar.tolis2004@gmail.com](mailto:omar.tolis2004@gmail.com)  
-- 🧠 **Currently Learning**: Spring Boot, Software Testing  
-- <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=omar-elrfaay" target="_blank">
-  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
-</a>
+```
+Name     : Omar Elrfaay
+Role     : Software Tester & Spring Boot Backend Developer
+Location : Giza, Egypt
+Email    : omar.tolis2004@gmail.com
+Status   : Grinding Spring Boot & Software Testing
+```
+
+> Skilled in building **RESTful APIs**, **database design**, and **JWT authentication**.
+> Proficient in writing clean Java code and automated tests with JUnit, TestNG & Selenium.
+> Focused on delivering **high-quality**, **scalable**, and **well-tested** backend systems.
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=omar-elrfaay" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:omar.tolis2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-FF0F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
-# 🏆 Achievements
-<p align="left">
+## Achievements
+
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true&margin-w=15" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true&margin-w=15&theme=algolia" alt="GitHub Trophies">
   </a>
-</p>
+</div>
 
 ---
 
-# 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50">
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50">
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="50" height="50">
-  </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="TestNG" width="50" height="50">
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50">
-  </a>
-</p>
+## Languages & Tools
+
+### Backend & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6D00?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
 
 <div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
@@ -86,16 +88,16 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
   </a>
 </div>
 
-
-
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
+
 <div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Mega-Byte&theme=algolia" width="90%">
   </a>
 </div>
+
 <div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mega-Byte&theme=algolia" width="50%">
@@ -104,58 +106,98 @@ I am a skilled Software Tester and Spring Boot Backend Developer with hands-on e
 
 ---
 
-# 👁️‍🗨️ Wakatime Stats
-<div style="border: 2px solid #4A90E2; border-radius: 8px; padding: 16px; max-width: 300px; text-align: left; background-color: #f0f4ff; box-shadow: 0 4px 8px rgba(74, 144, 226, 0.2); margin: 20px auto;">
-  <img src="https://hackatime-badge.hackclub.com/U096QP19MT8/Beemo" alt="Beemo HackaTime Badge" style="max-width: 100%; height: auto; border-radius: 6px;" />
-</div>
+## WakaTime Stats
 
 <div align="left">
   <a href="https://wakatime.com/@OmarMegaByte">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OmarMegaByte" width="50%" alt="Wakatime Stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OmarMegaByte&theme=algolia" width="50%" alt="Wakatime Stats">
   </a>
 </div>
 
 ---
 
-# 🚀 Top Projects
+## Featured Projects
+
 <div align="left">
   <a href="https://github.com/Omar-Mega-Byte/EventureBoot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EventureBoot&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="EventureBoot Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EventureBoot&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="EventureBoot">
   </a>
   <a href="https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EcommPlaygroundTestMasters&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="EcommPlaygroundTestMasters Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EcommPlaygroundTestMasters&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="EcommPlaygroundTestMasters">
   </a>
+</div>
+<div align="left">
   <a href="https://github.com/Omar-Mega-Byte/HashCommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=HashCommerce&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" width="45%" alt="HashCommerce Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=HashCommerce&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="HashCommerce">
+  </a>
+  <a href="https://github.com/Omar-Mega-Byte/404_WeatherNotFound">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=404_WeatherNotFound&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="Will It Rain Or 404">
   </a>
 </div>
 
 ---
 
-# 💼 Experience
-- **Crowd Tester**  
-  *uTest, Digivante, Testio* (02/2025 - Present)  
-  - Conducted exploratory, functional, and usability testing for web and mobile applications.  
-  - Identified and reported software bugs, UI/UX issues, and performance defects.  
-  - Worked with various devices, browsers, and operating systems to ensure comprehensive test coverage.  
-  - Collaborated with clients and test leads to refine test cases and improve application quality.  
+## Experience
 
-- **Software Testing Trainee**  
-  *Digital Egypt Pioneers Initiative - DEPI, Maadi, Egypt* (10/2024 - 05/2025)  
-  - Gained hands-on experience in software testing, focusing on quality assurance.  
-  - Involved in test planning, execution, and defect management.  
-  - Contributed to real-world projects to ensure high software quality and reliability.  
+<table>
+  <tr>
+    <td>
+      <strong>Crowd Tester (Freelancer)</strong><br>
+      <em>uTest · Digivante · TestIO &nbsp;|&nbsp; Feb 2025 – Present</em><br><br>
+      Conducted exploratory, functional, and usability testing for web and mobile applications. Identified and reported software bugs, UI/UX issues, and performance defects across multiple devices, browsers, and operating systems. Collaborated with clients and test leads to refine test cases and improve application quality.
+    </td>
+  </tr>
+  <tr><td><br></td></tr>
+  <tr>
+    <td>
+      <strong>Software Testing Trainee</strong><br>
+      <em>Digital Egypt Pioneers Initiative (DEPI) · Maadi &nbsp;|&nbsp; Oct 2024 – May 2025</em><br><br>
+      Gained hands-on experience in software testing and QA — test planning, execution, and defect management. Contributed to real-world projects ensuring high software quality and reliability.
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🎓 Education
-- **Bachelor's Degree in Computer Science and Artificial Intelligence**  
-  *Helwan University* (07/2020 - 07/2026)  
+## Education
+
+| Degree | Institution | Period | GPA |
+|--------|-------------|--------|-----|
+| B.Sc. Computer Science & Artificial Intelligence | Helwan University | 2022 – 2026 | 3.61 |
 
 ---
 
-# 🤝 Volunteering
-- **Squad Moderator**  
-  *ALX Africa* (01/2025 - 03/2025)  
-  - Fostered a collaborative and inclusive environment, facilitating discussions and supporting group activities.  
-  - Enhanced the learning experience and promoted teamwork, ensuring all members felt valued and engaged.
+## Certificates & Courses
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| McKinsey.org Forward Program | McKinsey & Company | Dec 2025 |
+| NASA Space Apps Challenge – Galactic Problem Solver | NASA Space Apps | Oct 2025 |
+| Hewlett Packard Enterprise – Software Engineering Job Simulation | Forage | Sep 2025 |
+| Wells Fargo – Software Engineering Job Simulation | Forage | Sep 2025 |
+| DevOps Foundations (Sprints x Microsoft Summer Camp) | Sprints | Aug 2025 |
+| Agile Project Management Foundation | HP LIFE | Aug 2025 |
+| Business English Track | OTO Courses | Aug 2025 |
+| The Complete Guide to Spring 6 and Spring Boot 3 | Educative | Sep 2025 |
+| Digital Egypt Pioneers – Software Testing | DEPI | May 2025 |
+| ISTQB Foundation Level | ITI | Feb 2025 |
+| Introduction to Software Testing Concepts & Techniques | ITI | Jan 2025 |
+| AI Career Essentials (AiCE) | ALX Arabia | Oct 2024 |
+| Digital Egypt Pioneers – Team Leadership | DEPI | Nov 2024 |
+| Web Design & Freelancing – NTI & ITIDA Certified Training | NTI | Aug 2024 |
+| Building Web Applications using PHP & MySQL | ITI (MaharaTech) | Jun 2024 |
+
+---
+
+## Volunteering
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| Squad Moderator | ALX Africa | Dec 2024 |
+
+> Fostered a collaborative and inclusive learning environment, facilitating discussions and supporting group activities. Enhanced the learning experience and promoted teamwork.
+
+---
+<div align="center">
+  <sub>Built with coffee and way too much Java</sub>
+</div>
