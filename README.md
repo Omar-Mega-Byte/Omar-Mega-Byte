@@ -1,23 +1,3 @@
-![Header Animation](https://i.redd.it/axjjd2nyj1kb1.gif)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Omar-Mega-Byte">
-    <img width="55%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote">
-  </a>
-</div>
-
----
-
 ## `whoami`
 
 ```
@@ -46,41 +26,43 @@ Status   : Grinding Spring Boot & Software Testing
 
 ---
 
-## Achievements
-
-<div align="left">
-  <a href="https://github.com/Omar-Mega-Byte">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Mega-Byte&no-frame=true&margin-w=15&theme=algolia" alt="GitHub Trophies">
-  </a>
-</div>
-
----
-
 ## Languages & Tools
 
 ### Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### Testing & QA
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6D00?style=for-the-badge&logo=testng&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### RAG & AI Systems
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-00897B?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-5C6BC0?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 <div align="left">
   <a href="https://github.com/Omar-Mega-Byte">
@@ -115,23 +97,19 @@ Status   : Grinding Spring Boot & Software Testing
 </div>
 
 ---
-
-## Featured Projects
-
-<div align="left">
-  <a href="https://github.com/Omar-Mega-Byte/EventureBoot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EventureBoot&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="EventureBoot">
-  </a>
-  <a href="https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=EcommPlaygroundTestMasters&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="EcommPlaygroundTestMasters">
-  </a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Omar-Mega-Byte/Omar-Mega-Byte/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-<div align="left">
-  <a href="https://github.com/Omar-Mega-Byte/HashCommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=HashCommerce&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="HashCommerce">
-  </a>
-  <a href="https://github.com/Omar-Mega-Byte/404_WeatherNotFound">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Mega-Byte&repo=404_WeatherNotFound&title_color=FF0F61&text_color=c9d1d9&icon_color=FF0F61&bg_color=0d1117&hide_border=true&locale=en" width="45%" alt="Will It Rain Or 404">
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Omar-Mega-Byte">
+    <img width="55%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote">
   </a>
 </div>
 
@@ -163,7 +141,7 @@ Status   : Grinding Spring Boot & Software Testing
 
 | Degree | Institution | Period | GPA |
 |--------|-------------|--------|-----|
-| B.Sc. Computer Science & Artificial Intelligence | Helwan University | 2022 – 2026 | 3.61 |
+| B.Sc. Computer Science & Artificial Intelligence | Helwan University | 2022 – 2026 | 3.57 |
 
 ---
 
@@ -197,7 +175,4 @@ Status   : Grinding Spring Boot & Software Testing
 
 > Fostered a collaborative and inclusive learning environment, facilitating discussions and supporting group activities. Enhanced the learning experience and promoted teamwork.
 
----
-<div align="center">
-  <sub>Built with coffee and way too much Java</sub>
-</div>
+
