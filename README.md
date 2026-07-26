@@ -64,28 +64,6 @@ Status   : Grinding Spring Boot & Software Testing
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-<div align="left">
-  <a href="https://github.com/Omar-Mega-Byte">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omar-Mega-Byte&theme=algolia" width="50%">
-  </a>
-</div>
-
----
-
-## GitHub Stats
-
-<div align="left">
-  <a href="https://github.com/Omar-Mega-Byte">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Mega-Byte&theme=algolia" width="90%">
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/Omar-Mega-Byte">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Mega-Byte&theme=algolia" width="50%">
-  </a>
-</div>
-
 ---
 
 ## WakaTime Stats
